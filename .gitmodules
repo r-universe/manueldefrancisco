@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "RGoogleAnalytics"]
+	path = RGoogleAnalytics
+	url = https://github.com/manueldefrancisco/rgoogleanalytics
+	shallow = true
+	registered = true
